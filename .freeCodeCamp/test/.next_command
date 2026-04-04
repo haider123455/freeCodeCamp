@@ -167,3 +167,15 @@ git checkout main
 git checkout master
 git rev-parse --show-toplevel
 find . -name ".git" -type d
+git branch
+git checkout master
+git branch --set-upstream-to=origin/master master
+git pull
+git branch -m master main
+git push -u origin main
+git checkout main
+git pull origin main
+git pull
+git pull origin main --allow-unrelated-histories
+git push origin main
+git branch -vv
