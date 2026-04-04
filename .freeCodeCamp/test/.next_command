@@ -165,3 +165,5 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 git branch
 git checkout main
 git checkout master
+git rev-parse --show-toplevel
+find . -name ".git" -type d
