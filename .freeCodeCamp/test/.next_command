@@ -179,3 +179,4 @@ git pull
 git pull origin main --allow-unrelated-histories
 git push origin main
 git branch -vv
+git add .
