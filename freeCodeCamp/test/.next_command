@@ -135,3 +135,5 @@ cd images
 ls --color=auto
 cd ..
 ls --color=auto
+rm bacground.jpg
+rm background.jpg
