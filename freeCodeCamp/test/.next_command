@@ -285,3 +285,4 @@ __vsc_prompt_cmd_original
 ls --color=auto
 find
 find toms-website
+find website-boilerplate
