@@ -90,3 +90,4 @@ ls --color=auto
 __vsc_prompt_cmd_original
 clear
 mkdir website
+ls --color=auto
