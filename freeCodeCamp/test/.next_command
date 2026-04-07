@@ -150,3 +150,5 @@ rm footer.jpeg
 ls --color=auto
 mv roboto.font roboto.woff
 ls --color=auto
+__vsc_prompt_cmd_original
+mv lato.font lato.ttf
