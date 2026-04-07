@@ -246,3 +246,4 @@ find
 __vsc_prompt_cmd_original
 ls --color=auto
 mkdir client/assets/fonts
+touch client/assets/fonts/roboto-bold.woff
