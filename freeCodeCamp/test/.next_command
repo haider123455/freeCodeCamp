@@ -106,3 +106,5 @@ touch index.js
 __vsc_prompt_cmd_original
 touch .gitignore
 ls --color=auto
+--help
+ls --color=auto --help
