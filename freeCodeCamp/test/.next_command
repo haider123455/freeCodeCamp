@@ -157,3 +157,4 @@ ls --color=auto
 mkdir fints
 rm fints
 mkdir fonts
+ls --color=auto
