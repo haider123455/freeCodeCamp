@@ -99,3 +99,5 @@ touch index.html
 touch style.css
 ls --color=auto
 mv style.css styles.css
+__vsc_prompt_cmd_original
+ls --color=auto
