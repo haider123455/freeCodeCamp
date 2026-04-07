@@ -216,3 +216,4 @@ cd images
 touch background.jpg
 cd../../..
 cd ../../..
+cd images
