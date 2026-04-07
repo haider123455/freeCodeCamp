@@ -163,3 +163,5 @@ find
 mv lato.ttf fonts
 mv menlo.otf fonts
 find
+mkdir clients
+mv clients client
