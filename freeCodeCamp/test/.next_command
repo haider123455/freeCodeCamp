@@ -125,3 +125,5 @@ touch CodeRoad.svg
 touch freeCodeCamp.svg
 ls --color=auto
 mkdir images
+__vsc_prompt_cmd_original
+ls --color=auto
