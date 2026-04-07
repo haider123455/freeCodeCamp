@@ -248,3 +248,6 @@ ls --color=auto
 mkdir client/assets/fonts
 touch client/assets/fonts/roboto-bold.woff
 touch client/assets/fonts/roboto-light.woff
+find -name fonts
+find client/assets/sonts
+find client/assets/fonts
