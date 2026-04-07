@@ -54,3 +54,4 @@ __vsc_prompt_cmd_original
 more package.json
 __vsc_prompt_cmd_original
 clear
+ls --color=auto
