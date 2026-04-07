@@ -64,3 +64,4 @@ lls
 -l ls
 ls --color=auto
 ls --color=auto -l
+cd has
