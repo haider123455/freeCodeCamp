@@ -281,3 +281,5 @@ cp -help
 cp --help
 cp -r project website-boilerplate toms-website
 cp -r website-boilerplate toms-website
+__vsc_prompt_cmd_original
+ls --color=auto
