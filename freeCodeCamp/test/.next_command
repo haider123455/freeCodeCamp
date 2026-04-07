@@ -231,3 +231,6 @@ find -name footer.jped
 find -name footer.jpeg
 mv images/footer.jpeg client/assets/images
 find
+__vsc_prompt_cmd_original
+rmdir fints
+rmdir images
