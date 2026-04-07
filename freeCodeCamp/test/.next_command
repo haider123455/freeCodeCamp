@@ -166,3 +166,9 @@ find
 mkdir clients
 mv clients client
 mkdir client/src
+mv index.html client/Src
+mv index.html client/Src
+mv index.html client/src
+find
+touch index.html
+mv index.html client/src
