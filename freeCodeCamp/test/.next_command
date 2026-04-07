@@ -211,3 +211,4 @@ rm assets
 ls --color=auto
 mkdir assets
 cd assets
+mkdir images
