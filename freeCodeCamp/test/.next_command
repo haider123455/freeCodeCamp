@@ -127,3 +127,7 @@ ls --color=auto
 mkdir images
 __vsc_prompt_cmd_original
 ls --color=auto
+cp backgroud.jpg
+cp backgroud.jpg images
+cp backgroud.jpg images
+cp background.jpg images
