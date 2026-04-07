@@ -220,3 +220,4 @@ cd images
 ls --color=auto
 __vsc_prompt_cmd_original
 mv header.png ..
+ls --color=auto
