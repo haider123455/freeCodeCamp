@@ -203,3 +203,11 @@ find website
 find
 cd client
 mv Src assets
+cd assets
+cd assets
+cd assets
+ls --color=auto
+rm assets
+ls --color=auto
+mkdir assets
+cd assets
