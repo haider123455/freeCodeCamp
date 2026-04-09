@@ -6,6 +6,7 @@
     "vscode": {
       "extensions": [
         "coderoad.coderoad"
+        ENV CODEROAD_WEBHOOK_TOKEN eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyVG9rZW4iOiJ4UTVrU0FWVFpZd1paTE0yQXRuMnpyYTVHR1dlaFVqV0Ixc3BtUXFiQmJEN2pUWkVGTWlPcDhKTkQ5dGM1elZMIiwiaWF0IjoxNzc1NzQ5MDQzfQ.koaxOXNyGAYADOhx4qNV9Yjo9-ulSalPjK_H3_uy0JQ
       ]
     }
   }
