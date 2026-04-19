@@ -164,3 +164,9 @@ psql --username=freecodecamp --dbname=postgres
 pg_dumb -cC --inserts -U freecodecamp > worldcup.sql
 pg_dump -cC --inserts -U freecodecamp > worldcup.sql
 pg_dump -cC --inserts -U freecodecamp worldcup > worldcup.sql
+git remote add origin https://github.com/Tamene-eng/rdb-alpha-1.git
+git remote set -yrl origin https://github.com
+git push -u origin master
+git remote set -url origin https://github.com
+git push -u origin master
+git add .
