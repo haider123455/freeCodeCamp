@@ -161,3 +161,6 @@ psql --username=freecodecamp --dbname=postgres
 ./inert_data.sh
 ./insert_data.sh
 ./queries.sh
+pg_dumb -cC --inserts -U freecodecamp > worldcup.sql
+pg_dump -cC --inserts -U freecodecamp > worldcup.sql
+pg_dump -cC --inserts -U freecodecamp worldcup > worldcup.sql
