@@ -237,3 +237,5 @@ rm robot-bold.woff
 ls --color=auto
 rm roboto-bold.woff
 echo Yay!
+echo I finished the boilerplate
+echo I finished the boilerplate!
