@@ -233,3 +233,7 @@ tocuh server.js
 touch server.js
 touch README.md
 ls --color=auto
+rm robot-bold.woff
+ls --color=auto
+rm roboto-bold.woff
+echo Yay!
