@@ -232,3 +232,4 @@ touch package.json
 tocuh server.js
 touch server.js
 touch README.md
+ls --color=auto
