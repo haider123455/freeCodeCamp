@@ -88,3 +88,6 @@ echo hello website
 touch index.html
 touch styles.css
 ls --color=auto
+index.js
+tocu index.js
+touch index.js
