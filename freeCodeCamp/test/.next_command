@@ -226,3 +226,4 @@ find client/assets/fonts
 find
 rm -help
 rm --help
+rm -r fonts
