@@ -152,3 +152,5 @@ mkdir client
 mkdir client/src
 mv index.html client/src
 find
+ls --color=auto
+mv index.js client/src
