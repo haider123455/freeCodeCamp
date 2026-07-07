@@ -52,3 +52,6 @@ ls --color=auto
 more package.json
 clear
 ls --color=auto
+cd node_moduels
+node_moduels
+cd node_modules
