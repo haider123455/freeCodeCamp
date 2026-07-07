@@ -206,3 +206,4 @@ mv CodeAlly.svg client/assets/icons
 fin
 find
 mv CodeRoad.svg client/assets/icons
+mv freeCodeCamp.svg client/assets/icons
