@@ -76,3 +76,5 @@ more index.js
 __vsc_prompt_cmd_original
 cd ..
 cd ..
+pwd
+cd ../..
