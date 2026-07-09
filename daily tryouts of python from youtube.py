@@ -6,3 +6,10 @@ result_list=[i[::-1] for i in given_list]
 #taken to thorny for testing
 print(result_list)#the result is as expected
 #day 1 of practice
+# day one addons
+#using break points
+mimi=6
+zack=20
+breakpoint()
+total_age=mimi+zack
+print(total_age)
