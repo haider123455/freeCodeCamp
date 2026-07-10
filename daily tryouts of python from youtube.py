@@ -25,4 +25,4 @@ lis_of_numbers = [
 ]
 half_size = len(lis_of_numbers) // 2
 swapped_list = lis_of_numbers[half_size:] + lis_of_numbers[:half_size]
-print(swapped_list)# it is as i pridicted i did it right
+print(swapped_list)  # it is as i pridicted i did it right
