@@ -43,14 +43,20 @@
 #     1,  # to mean excute
 # )
 # the os alternative
-import os
+# import os
+#
+# filepath = r"C:\Users\PATIENCE\OneDrive\Pictures\Screenshots\moveent\Screenshot 2026-05-25 040058.png2.png"
+# if os.path.exists(filepath):
+#     try:
+#         os.startfile(filepath)
+#     except OSError as e:
+#         # the OSError is one that catches all operating system level errors
+#         print("file found but couldnt be open", e)
+# else:
+#     print("file not found according to path", filepath)
+# day 4 making an identity marix using numpy
+import numpy as np
 
-filepath = r"C:\Users\PATIENCE\OneDrive\Pictures\Screenshots\moveent\Screenshot 2026-05-25 040058.png2.png"
-if os.path.exists(filepath):
-    try:
-        os.startfile(filepath)
-    except OSError as e:
-        # the OSError is one that catches all operating system level errors
-        print("file found but couldnt be open", e)
-else:
-    print("file not found according to path", filepath)
+x = np.eye(4, M=6, K=1)  # the first parameter is for the rows
+# second parameter for the columns
+# the third for the data shirft for one in the matrix
