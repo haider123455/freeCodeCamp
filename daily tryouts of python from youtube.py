@@ -44,12 +44,13 @@
 # )
 # the os alternative
 import os
-filepath=r"C:\Users\PATIENCE\OneDrive\Pictures\Screenshots\moveent\Screenshot 2026-05-25 040058.png2.png"
+
+filepath = r"C:\Users\PATIENCE\OneDrive\Pictures\Screenshots\moveent\Screenshot 2026-05-25 040058.png2.png"
 if os.path.exists(filepath):
     try:
         os.startfile(filepath)
     except OSError as e:
         # the OSError is one that catches all operating system level errors
-        print("file found but couldnt be open",e)
+        print("file found but couldnt be open", e)
 else:
-    print("file not found according to path",filepath)
+    print("file not found according to path", filepath)
