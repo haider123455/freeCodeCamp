@@ -61,12 +61,13 @@ x = np.eye(4, M=6, K=1)  # the first parameter is for the rows
 # second parameter for the columns
 # the third for the data shirft for one in the matrix
 print(x)
-#project addons doing teclado exercises each day
-age_husi=17
+# project addons doing teclado exercises each day
+age_husi = 17
 print(f"she is born on August the seventh ,she is {17} years ilhiyasm ")
-days_in_27years=365*27
+days_in_27years = 365 * 27
 print(f"there are {days_in_27years}days in 27 years can i be married for more!!")
 from math import pi
-r=5
-circle_area_of_5_radius=pi *r**2
+
+r = 5
+circle_area_of_5_radius = pi * r**2
 print(f"the circle_area_of_5_radius is {round(circle_area_of_5_radius,4)}units sq")
